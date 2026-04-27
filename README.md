@@ -40,4 +40,4 @@ python app.py
 ![Output](https://github.com/Pothuraju1690/ai-caption-generator/raw/main/outputpage.png)
 
 ### 🌐 Landing Page
-![Landing](https://github.com/yourusername/ai-caption-generator/raw/main/landingpage.png)
+![Landing](https://github.com/Pothuraju1690/ai-caption-generator/raw/main/landingpage.png)
