@@ -30,11 +30,11 @@ python app.py
 ### 📊 Features Page
 ![Features](https://github.com/Pothuraju1690/ai-caption-generator/raw/main/features.png)
 
-### 🔄 Working / Try Another Feature
+### 🔄 Working Page
 ![Working](https://github.com/Pothuraju1690/ai-caption-generator/raw/main/working.png)
 
 ### 📤 Upload Page
-![Upload](https://github.com/yourusername/ai-caption-generator/raw/main/uploadpage.png)
+![Upload](https://github.com/Pothuraju1690/ai-caption-generator/raw/main/uploading.png)
 
 ### 🤖 Output (Generated Caption)
 ![Output](https://github.com/yourusername/ai-caption-generator/raw/main/outputpage.png)
