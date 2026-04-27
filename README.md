@@ -30,8 +30,8 @@ python app.py
 ### 📊 Features Page
 ![Features](https://github.com/Pothuraju1690/ai-caption-generator/raw/main/features.png)
 
-### 🌐 Landing Page
-![Landing](https://github.com/yourusername/ai-caption-generator/raw/main/landingpage.png)
+### 🔄 Working / Try Another Feature
+![Working](https://github.com/Pothuraju1690/ai-caption-generator/raw/main/working.png)
 
 ### 📤 Upload Page
 ![Upload](https://github.com/yourusername/ai-caption-generator/raw/main/uploadpage.png)
@@ -39,5 +39,5 @@ python app.py
 ### 🤖 Output (Generated Caption)
 ![Output](https://github.com/yourusername/ai-caption-generator/raw/main/outputpage.png)
 
-### 🔄 Working / Try Another Feature
-![Working](https://github.com/yourusername/ai-caption-generator/raw/main/workingpage.png)
+### 🌐 Landing Page
+![Landing](https://github.com/yourusername/ai-caption-generator/raw/main/landingpage.png)
