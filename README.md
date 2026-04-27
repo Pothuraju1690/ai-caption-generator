@@ -28,7 +28,7 @@ python app.py
 ![Homepage](https://github.com/Pothuraju1690/ai-caption-generator/raw/main/homepage_1.png)
 
 ### 📊 Features Page
-![Features](https://github.com/yourusername/ai-caption-generator/raw/main/featurespage.png)
+![Features](https://github.com/Pothuraju1690/ai-caption-generator/raw/main/features.png)
 
 ### 🌐 Landing Page
 ![Landing](https://github.com/yourusername/ai-caption-generator/raw/main/landingpage.png)
