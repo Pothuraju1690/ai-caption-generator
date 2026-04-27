@@ -30,14 +30,9 @@ python app.py
 ### 📊 Features Page
 ![Features](https://github.com/Pothuraju1690/ai-caption-generator/raw/main/features.png)
 
-### 🔄 Working Page
-![Working](https://github.com/Pothuraju1690/ai-caption-generator/raw/main/working.png)
-
 ### 📤 Upload Page
 ![Upload](https://github.com/Pothuraju1690/ai-caption-generator/raw/main/uploading.png)
 
 ### 🤖 Output (Generated Caption)
 ![Output](https://github.com/Pothuraju1690/ai-caption-generator/raw/main/outputpage.png)
 
-### 🌐 Landing Page
-![Landing](https://github.com/Pothuraju1690/ai-caption-generator/raw/main/landingpage.png)
