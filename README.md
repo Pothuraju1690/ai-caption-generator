@@ -37,7 +37,7 @@ python app.py
 ![Upload](https://github.com/Pothuraju1690/ai-caption-generator/raw/main/uploading.png)
 
 ### 🤖 Output (Generated Caption)
-![Output](https://github.com/yourusername/ai-caption-generator/raw/main/outputpage.png)
+![Output](https://github.com/Pothuraju1690/ai-caption-generator/raw/main/outputpage.png)
 
 ### 🌐 Landing Page
 ![Landing](https://github.com/yourusername/ai-caption-generator/raw/main/landingpage.png)
