@@ -23,3 +23,21 @@ python app.py
 
 
 ## 📷 Screenshots
+
+### 🏠 Homepage
+![Homepage](https://github.com/Pothuraju1690/ai-caption-generator/raw/main/homepage_1.png)
+
+### 📊 Features Page
+![Features](https://github.com/yourusername/ai-caption-generator/raw/main/featurespage.png)
+
+### 🌐 Landing Page
+![Landing](https://github.com/yourusername/ai-caption-generator/raw/main/landingpage.png)
+
+### 📤 Upload Page
+![Upload](https://github.com/yourusername/ai-caption-generator/raw/main/uploadpage.png)
+
+### 🤖 Output (Generated Caption)
+![Output](https://github.com/yourusername/ai-caption-generator/raw/main/outputpage.png)
+
+### 🔄 Working / Try Another Feature
+![Working](https://github.com/yourusername/ai-caption-generator/raw/main/workingpage.png)
