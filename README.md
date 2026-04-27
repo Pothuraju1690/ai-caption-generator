@@ -1,3 +1,6 @@
+## 🌐 Live Demo
+https://ai-caption-generator-app.netlify.app
+
 # AI Caption Generator
 
 ## 📌 Description
